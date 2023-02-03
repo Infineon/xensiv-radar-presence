@@ -1,10 +1,14 @@
-# XENSIV™ Radar Presence 0.5.0
+# XENSIV™ Radar Presence 1.0.0
 
 ## What's Included?
 
 Refer to the [README.md](./README.md) and the [API Reference Guide](https://infineon.github.io/xensiv-radar-presence/html/index.html) for a complete description of the XENSIV™ Radar Presence library.
 
 ## What Changed?
+
+#### v1.0.0
+
+* Minor documentation updates
 
 #### v0.5.0
 
